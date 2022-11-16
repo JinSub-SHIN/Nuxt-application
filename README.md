@@ -1,4 +1,4 @@
-# wattManager-frontend
+# Nuxt Typescript EsLint
 
 ## Build Setup
 
