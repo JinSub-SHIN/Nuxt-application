@@ -3,7 +3,7 @@ FROM node:16.13.2
 WORKDIR /app
 ADD . /app/
 
-RUN npm install && npm run build
+# RUN npm install && npm run build
 
 ENV HOST 0.0.0.0
 
